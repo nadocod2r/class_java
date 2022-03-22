@@ -1,4 +1,4 @@
-package helloworld_project;
+package ch02;
 
 public class IfTest {
 	public static void main(String[] args) {

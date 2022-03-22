@@ -1,4 +1,4 @@
-package helloworld_project;
+package ch02;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package helloworld_project;
+package ch02;
 
 public class ForEx {
 	public static void main(String[] args) {
