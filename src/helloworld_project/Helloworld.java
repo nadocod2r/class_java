@@ -20,5 +20,7 @@ public class Helloworld {
 		for(int i=0;i<10;i++) {
 			System.out.println(String.format("%02d", i+1)+" " +str);
 		}
+		
+		System.out.println("Hello World!  <=   added.");
 	}
 }
