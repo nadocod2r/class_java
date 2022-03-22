@@ -14,5 +14,6 @@ public class BreakEx {
 				break;
 		}
 		System.out.println("종료합니다......");
+		sc.close();
 	}
 }
