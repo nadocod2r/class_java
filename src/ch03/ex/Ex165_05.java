@@ -17,7 +17,7 @@ public class Ex165_05 {
 			if(intArr[j]%3==0) {
 				System.out.print(intArr[j]+" ");
 			}
-		}		
+		}
 		sc.close();		
 	}
 }

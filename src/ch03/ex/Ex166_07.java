@@ -1,6 +1,6 @@
 package ch03.ex;
 
-public class Ex165_07 {
+public class Ex166_07 {
 	public static void main(String[] args) {
 		
 		int intArr[]=new int[10];		
