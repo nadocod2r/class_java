@@ -19,7 +19,7 @@ public class Ex166_07 {
 			System.out.print(intArr[j]+" ");
 		}
 		System.out.println();
-		System.out.println("총점 : "+sum);
-		System.out.println("평균 : "+String.format("%.2f", avg));		
+		System.out.println("총점 : " + sum);
+		System.out.println("평균 : " + String.format("%.2f", avg));		
 	}
 }
