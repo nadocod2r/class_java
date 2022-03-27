@@ -11,6 +11,8 @@ public class CalcUse {
 		int num2=sc.nextInt();
 		System.out.println("연산자(1.+, 2.-, 3.*, 4./) 입력 => ");
 //		int op=sc.nextInt();
+//		String s=sc.next();
+//		char op=s.charAt(0);
 		char op=sc.next().charAt(0);
 		
 //		Add add=new Add();
