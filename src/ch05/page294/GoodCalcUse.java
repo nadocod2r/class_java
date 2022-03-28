@@ -1,6 +1,6 @@
 package ch05.page294;
 
-public class CoodCalcUse {
+public class GoodCalcUse {
 	public static void main(String[] args) {
 		GoodCalc c = new GoodCalc();
 		System.out.println(c.add(2, 3));
