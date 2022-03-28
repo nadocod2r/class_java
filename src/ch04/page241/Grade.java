@@ -1,16 +1,19 @@
 package ch04.page241;
 
 public class Grade {
-	int math;
-	int science;
-	int english;
+	private int math;
+	private int science;
+	private int english;
+
 	public Grade(int math, int science, int english) {
-		this.math=math;
-		this.science=science;
-		this.english=english;
+		super();
+		this.math = math;
+		this.science = science;
+		this.english = english;
 	}
-	public double average() {
-		double avg = (double)((math+science+english)/3.0);
+
+	public int average() {
+		int avg = (math + science + english) / 3;
 		return avg;
 	}
 }
