@@ -1,7 +1,5 @@
 package ch06.page384;
 
-import ch06.page350.Rect;
-
 public class Circle {
 	private int x, y, radius;
 
